@@ -1,0 +1,11 @@
+streamlit>=1.45.0
+python-dotenv>=1.0.0
+azure-cognitiveservices-speech>=1.43.0
+elevenlabs>=1.0.0
+transformers==4.51.3
+torch>=2.0.0
+soundfile>=0.12.1
+sentencepiece>=0.1.97
+protobuf==3.20.0
+requests>=2.32.0
+numpy>=1.26.0
