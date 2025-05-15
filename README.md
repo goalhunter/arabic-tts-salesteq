@@ -10,6 +10,7 @@ pip (Python package installer)
 Installation
 # Clone the repository (or download the files)
 git clone https://github.com/goalhunter/arabic-tts-salesteq.git
+
 cd arabic-tts
 
 # Create a virtual environment
